@@ -73,7 +73,13 @@ p {
 }
 .logo .button .link{
 	 padding: 10px 15px;
-	  background-color: #f2f2f2;
+	  background-color: #f8f9fa;
+}
+
+.button >a{
+    list-style: none;
+    text-decoration: none;
+    color: #3c4043;;
 }
 .logo .wrk{
 	margin-top: 30px;
